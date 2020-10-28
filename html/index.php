@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h1> Hello World from PHP / nginx / Mysql </h1>
+<h1> Hello World from Tanya </h1>
 
 <?php 
 $x = "Hello world 1234!";
